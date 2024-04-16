@@ -21,7 +21,8 @@
 <a id="live-server"></a>
 
 ## Live-Server
-- [Foster](https://fosterstores.onrender.com) - Real Time Website.
+- [Foster](https://fosterstores.onrender.com) - Real Time Website. 
+- [Foster](https://foster-7u8w.onrender.com/) - Test Branche Website.
 - [Foster](https://repulsive-toga-fish.cyclic.app/) - Backup Website.
 
 <a id="dependencies"></a>
@@ -60,15 +61,13 @@ and:
  npm install
 ```
 
-## 3: Running the aplication.
-
-To open the **Server** enter:
+## 3: Running via Git Terminal:
 
 ```sh
  npm start
 ```
 
-*root_directory: by default "C:\Program Files"
+*Inside the Templates folder, access one of the available business models, copy and paste the "public" and "src" folders to the main folder, reload the page to view the changes
 <!--<h1 align="center">
   <img alt="Proffy" src="public/images/logo.svg" height="100px" />
     <br>Foster, your company to world<br/>
